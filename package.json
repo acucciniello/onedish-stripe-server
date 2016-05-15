@@ -1,0 +1,23 @@
+{
+  "name": "onedish-stripe-server",
+  "version": "1.0.0",
+  "description": "Stripe Server for Payments for onedish",
+  "main": "stripe-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acucciniello/onedish-stripe-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acucciniello/onedish-stripe-server/issues"
+  },
+  "homepage": "https://github.com/acucciniello/onedish-stripe-server#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1"
+  },
+  "devDependencies": {}
+}
